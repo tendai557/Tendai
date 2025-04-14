@@ -1,3 +1,0 @@
-name ='tendai
-age=24
-
